@@ -1,7 +1,7 @@
 # Welcome to Tus repository
 This repository contains a simple Java application used for the demonstration of CI - Continous Integration process, as a part of Introdution to Software Engineering course at FPT University, HCM Campus
 
-## You will find in thi repo:
+## You will find in this repo:
 * MathUtil class - holds all of my own math methods
 * Test class - uses to check the code quality (demo for TDD and Unit Test technics)
 * .gitignore
