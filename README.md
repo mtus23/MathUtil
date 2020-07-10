@@ -12,4 +12,8 @@ This repository contains a simple Java application used for the demonstration of
 2. [GitHub](https://github.com/mtus23)
 3. [Email](minhtuz2302@gmail.com)
 
+<<<<<<< HEAD
 #### © 2020 by Tus | FPT University HCMC
+=======
+#### © 2020 by Tus 
+>>>>>>> 23137f454ba80e187b0659a9ade3fe0a9f8d4eba
