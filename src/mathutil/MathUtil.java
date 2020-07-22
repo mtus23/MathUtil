@@ -27,7 +27,7 @@ public class MathUtil {
         System.out.println("1! = " + computeFactorial(1));
 
         //expected exception
-        System.out.println("-5! = " + computeFactorial(-5));
+        //System.out.println("-5! = " + computeFactorial(-5));
         
         //TDD kết hợp unitTesting xài n thư viện: JUnit, TestNG, PHPUnit, CPPUnit, xUnit, MTest,...
         
