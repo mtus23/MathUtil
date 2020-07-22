@@ -12,11 +12,13 @@ package tus.util;
 public class MathUtil {
 
     public static long computeFactorial(int n) {
-        long result = 1;
-        for (int i = 1; i <= n; i++) {
-            result *= i;
+        if (n < 0 || n > 15) {
+            throw new IllegalArgumentException();
         }
-        return result;
+        if (n == 0 || n == 1) {
+            return 1;
+        }
+        return n * (computeFactorial(n - 1));
 
     }
 }
